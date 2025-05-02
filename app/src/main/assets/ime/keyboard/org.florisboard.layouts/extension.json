@@ -117,6 +117,12 @@
         "direction": "ltr"
       },
       {
+        "id": "colemak_es",
+        "label": "Colemak ES",
+        "authors": [ "jmlvargas" ],
+        "direction": "ltr"
+      },
+      {
         "id": "danish",
         "label": "Danish (QWERTY)",
         "authors": [ "patrickgold" ],
