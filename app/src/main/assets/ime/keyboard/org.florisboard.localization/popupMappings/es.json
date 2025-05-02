@@ -97,7 +97,9 @@
           "rtl": { "code":   40, "label": ")" }
         },
         { "code":   35, "label": "#" },
+        { "code":  161, "label": "¡" },
         { "code":   33, "label": "!" },
+        { "code":  191, "label": "¿" },
         { "code":   63, "label": "?" }
       ]
     }

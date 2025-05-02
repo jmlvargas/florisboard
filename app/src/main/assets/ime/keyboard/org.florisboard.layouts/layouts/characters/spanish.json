@@ -29,7 +29,16 @@
     { "$": "auto_text_key", "code":   99, "label": "c" },
     { "$": "auto_text_key", "code":  118, "label": "v" },
     { "$": "auto_text_key", "code":   98, "label": "b" },
-    { "$": "auto_text_key", "code":  110, "label": "n" },
-    { "$": "auto_text_key", "code":  109, "label": "m" }
+    { "$": "auto_text_key", "code":  110, "label": "n", "popup": {
+      "relevant": [
+        { "$": "auto_text_key", "code":  161, "label": "¡" }
+      ]
+    } },
+    { "$": "auto_text_key", "code":  109, "label": "m" , "popup": {
+      "relevant": [
+        { "$": "auto_text_key", "code":  191, "label": "¿" },
+        { "$": "auto_text_key", "code": 8253, "label": "‽" }
+      ]
+    } }
   ]
 ]
